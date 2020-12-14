@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRMDBConnector\CRMDBConnector.csproj" />
+    <ProjectReference Include="..\EnviziAPIClient\EnviziAPIClient.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EnviziCoreLibrary">
+      <HintPath>..\..\EnviziCoreLibrary\EnviziCoreLibrary\bin\Debug\netcoreapp3.1\EnviziCoreLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

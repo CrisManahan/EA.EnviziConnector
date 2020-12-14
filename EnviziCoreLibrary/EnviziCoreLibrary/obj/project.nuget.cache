@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4JkbbdAY/GXqTrA1yXNBZy+1LGJpTWZPg67WwZ0BDlr4J++KgfcFDSy97iQFZKt6MJwtm5sWYyaXm8s6epssA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cris.manahan\\source\\repos\\GitHub\\EA.EnviziConnector\\EnviziCoreLibrary\\EnviziCoreLibrary\\EnviziCoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\bin\Release\netcoreapp3.1\CRMDBConnector.deps.json
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\bin\Release\netcoreapp3.1\CRMDBConnector.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\bin\Release\netcoreapp3.1\CRMDBConnector.pdb
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\bin\Release\netcoreapp3.1\EnviziCoreLibrary.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\bin\Release\netcoreapp3.1\EnviziCoreLibrary.pdb
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.csprojAssemblyReference.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.Properties.Resources.resources
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.csproj.GenerateResource.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.AssemblyInfoInputs.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.AssemblyInfo.cs
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.csproj.CoreCompileInputs.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.csproj.CopyComplete
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziInvoiceConsole\CRMDBConnector\obj\Release\netcoreapp3.1\CRMDBConnector.pdb

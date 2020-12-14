@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnviziInvoiceConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Charter Hall\" Envizi 202009"
+    }
+  }
+}

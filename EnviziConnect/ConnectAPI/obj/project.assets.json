@@ -1,0 +1,287 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.10.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Selenium.WebDriver/3.141.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/86.0.4240.2200": {
+        "type": "package",
+        "build": {
+          "build/_._": {}
+        }
+      },
+      "TextCopy/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/TextCopy.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/TextCopy.dll": {}
+        }
+      },
+      "ConnectLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "Selenium.WebDriver": "3.141.0",
+          "Selenium.WebDriver.ChromeDriver": "86.0.4240.2200",
+          "TextCopy": "4.2.0"
+        },
+        "compile": {
+          "bin/placeholder/ConnectLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConnectLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+      "sha512": "xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
+      "type": "package",
+      "path": "dotnetseleniumextras.waithelpers/3.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+        "dotnetseleniumextras.waithelpers.nuspec",
+        "lib/net35/SeleniumExtras.WaitHelpers.dll",
+        "lib/net40/SeleniumExtras.WaitHelpers.dll",
+        "lib/net45/SeleniumExtras.WaitHelpers.dll",
+        "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.4": {
+      "sha512": "AceHamXNKDMDwIoZqEoApLp8s3935wSC3VXrPaRWa0wWOaEcYdDlo1nWQ1zLiezoDmpJzV7FqDm53E0Ty/hEMg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Selenium.WebDriver/3.141.0": {
+      "sha512": "wPqzXO3f79DzqauTZSzLMKiaBCN0Z2Mv7KvWP+hnV6EL88zh/pJJnFtdIR1X5wa3hsTOpF/bBJs45rz7kArsiA==",
+      "type": "package",
+      "path": "selenium.webdriver/3.141.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.dll",
+        "lib/net35/WebDriver.xml",
+        "lib/net40/WebDriver.dll",
+        "lib/net40/WebDriver.xml",
+        "lib/net45/WebDriver.dll",
+        "lib/net45/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "selenium.webdriver.3.141.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/86.0.4240.2200": {
+      "sha512": "OBsGSOQtxwycxlH2PC/OjJf+9FS+XMaGDDuLVzUVx1dDYnXSh5HY8C4iZSTPjDemsLtB3ggJvCsWf7k2wD1+Jg==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/86.0.4240.2200",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.86.0.4240.2200.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    },
+    "TextCopy/4.2.0": {
+      "sha512": "NY2UAFIjBJj+3aABP5tyO6ooEdkJxIGtwRNqvMQKLmyIeZiyGvM4XYbkKNntyQlhyFhhfBww05C3D/0DdimfaQ==",
+      "type": "package",
+      "path": "textcopy/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/monoandroid90/TextCopy.dll",
+        "lib/monoandroid90/TextCopy.xml",
+        "lib/net461/TextCopy.dll",
+        "lib/net461/TextCopy.xml",
+        "lib/netstandard2.0/TextCopy.dll",
+        "lib/netstandard2.0/TextCopy.xml",
+        "lib/netstandard2.1/TextCopy.dll",
+        "lib/netstandard2.1/TextCopy.xml",
+        "lib/uap10.0/TextCopy.dll",
+        "lib/uap10.0/TextCopy.pri",
+        "lib/uap10.0/TextCopy.xml",
+        "lib/xamarinios10/TextCopy.dll",
+        "lib/xamarinios10/TextCopy.xml",
+        "textcopy.4.2.0.nupkg.sha512",
+        "textcopy.nuspec"
+      ]
+    },
+    "ConnectLogic/1.0.0": {
+      "type": "project",
+      "path": "../ConnectLogic/ConnectLogic.csproj",
+      "msbuildProject": "../ConnectLogic/ConnectLogic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ConnectLogic >= 1.0.0",
+      "Newtonsoft.Json >= 12.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\cris.manahan\\Source\\Repos\\EA.EnviziConnector2\\EnviziConnect\\ConnectAPI\\ConnectAPI.csproj",
+      "projectName": "ConnectAPI",
+      "projectPath": "C:\\Users\\cris.manahan\\Source\\Repos\\EA.EnviziConnector2\\EnviziConnect\\ConnectAPI\\ConnectAPI.csproj",
+      "packagesPath": "C:\\Users\\cris.manahan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cris.manahan\\Source\\Repos\\EA.EnviziConnector2\\EnviziConnect\\ConnectAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\cris.manahan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\cris.manahan\\Source\\Repos\\EA.EnviziConnector2\\EnviziConnect\\ConnectLogic\\ConnectLogic.csproj": {
+              "projectPath": "C:\\Users\\cris.manahan\\Source\\Repos\\EA.EnviziConnector2\\EnviziConnect\\ConnectLogic\\ConnectLogic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

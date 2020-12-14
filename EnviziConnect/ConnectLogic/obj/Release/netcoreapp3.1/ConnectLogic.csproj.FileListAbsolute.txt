@@ -1,0 +1,9 @@
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\bin\Release\netcoreapp3.1\ConnectLogic.deps.json
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\bin\Release\netcoreapp3.1\ConnectLogic.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\bin\Release\netcoreapp3.1\ConnectLogic.pdb
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\obj\Release\netcoreapp3.1\ConnectLogic.AssemblyInfoInputs.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\obj\Release\netcoreapp3.1\ConnectLogic.AssemblyInfo.cs
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\obj\Release\netcoreapp3.1\ConnectLogic.csproj.CoreCompileInputs.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\obj\Release\netcoreapp3.1\ConnectLogic.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\obj\Release\netcoreapp3.1\ConnectLogic.pdb
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziConnect\ConnectLogic\obj\Release\netcoreapp3.1\ConnectLogic.csprojAssemblyReference.cache

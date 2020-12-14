@@ -1,0 +1,9 @@
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\bin\Release\netcoreapp3.1\EnviziCoreLibrary.deps.json
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\bin\Release\netcoreapp3.1\EnviziCoreLibrary.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\bin\Release\netcoreapp3.1\EnviziCoreLibrary.pdb
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\obj\Release\netcoreapp3.1\EnviziCoreLibrary.AssemblyInfoInputs.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\obj\Release\netcoreapp3.1\EnviziCoreLibrary.AssemblyInfo.cs
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\obj\Release\netcoreapp3.1\EnviziCoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\obj\Release\netcoreapp3.1\EnviziCoreLibrary.dll
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\obj\Release\netcoreapp3.1\EnviziCoreLibrary.pdb
+C:\Users\cris.manahan\source\repos\GitHub\EA.EnviziConnector\EnviziCoreLibrary\EnviziCoreLibrary\obj\Release\netcoreapp3.1\EnviziCoreLibrary.csprojAssemblyReference.cache

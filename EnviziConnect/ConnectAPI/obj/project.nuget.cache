@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDF6kWkLTXYMY9JjT4NDiapCzhum1c70HuR0AF9m3YCakWqvxYKLvSXhv6J+9U79VHBbT0k08aeaj9ZIqik0Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cris.manahan\\Source\\Repos\\EA.EnviziConnector2\\EnviziConnect\\ConnectAPI\\ConnectAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\selenium.webdriver.chromedriver\\86.0.4240.2200\\selenium.webdriver.chromedriver.86.0.4240.2200.nupkg.sha512",
+    "C:\\Users\\cris.manahan\\.nuget\\packages\\textcopy\\4.2.0\\textcopy.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
